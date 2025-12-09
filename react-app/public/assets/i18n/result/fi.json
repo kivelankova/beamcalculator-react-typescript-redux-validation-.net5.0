@@ -1,0 +1,17 @@
+{
+  "titleButton": "Palkin tulokset",
+  "titleDiagrams": "V/M/D Diagrammit",
+  "titleResults": "Max/Min tulokset",
+  "results": "Ei näytettäviä tuloksia",
+  "inputs": "Ei näytettäviä lähtötietoja",
+  "buttonCalculateResult": "Laske tulos",
+  "buttonEmptyResult": "Tyhjennä tulos",
+  "buttonSaveResult": "Tallenna tulos",
+  "buttonSavesResults": "Tallennetut tulokset",
+  "resultList": "Tuloksien listaus",
+  "close": "Sulje",
+  "shearForceDiagram": "Leikkausvoima-käyrä",
+  "bendingMomentDiagram": "Taivutusmomentti-käyrä",
+  "deflectionDiagram": "Taipuma-käyrä",
+  "xAxel": "X-akseli"
+}

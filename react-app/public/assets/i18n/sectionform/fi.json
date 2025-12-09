@@ -1,0 +1,9 @@
+{
+  "title": "Syötä palkin poikkileikkaustiedot [mm] ja kuormitukset [kN] tai [kN/m]",
+  "titleSelectMaterial": "Valitse materiaali:",
+  "titleSelectType": "Valitse kuormatyyppi:",
+  "titleSection": "Poikkileikkaus:",
+  "width": "Leveys (w)",
+  "height": "Korkeus (h)",
+  "language": "fi"
+}

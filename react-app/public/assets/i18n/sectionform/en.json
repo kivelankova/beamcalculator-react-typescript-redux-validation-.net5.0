@@ -1,0 +1,9 @@
+{
+  "title": "Enter beam cross-section data [mm] and loads [kN] or [kN/m]",
+  "titleSelectMaterial": "Choose Material:",
+  "titleSelectType": "Choose ForceType:",
+  "titleSection": "Section:",
+  "width": "Width (w)",
+  "height": "Height (h)",
+  "language": "en"
+}

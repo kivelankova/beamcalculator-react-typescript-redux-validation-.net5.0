@@ -1,0 +1,44 @@
++ src
+|
++-- Home.js (navigointipalkki)
+|
++----+ components
+|    |
+|    +--+ Beam (Lähtötiedot-välilehti)
+|    |  |
+|    |  +-- index.tsx (muodostetaan/kootaan Lähtötiedot-näkymä)
+|    |  +-- BeamForm.tsx (Palkin pituus ja tukien syöttöform)
+|    |  +-- TypeForm.tsx (Kuormitusten syöttöform)
+|    |  +-- sectionForm.tsx (Poikkileikkauksen syöttöform)
+|    |  +-- SelectedValuesForm.tsx (Syötettyjen arvojen form)
+|    |  +-- ButtonBeamForm.tsx (napit form)
+|    |
+|    +--+ Result (Tulokset-välilehti)
+|       |
+|       +-- index.js (muodostetaan/kootaan Tulokset-näkymä)
+|       +-- Calculator.tsx (laskenta)
+|       +-- ResultList.tsx (Tallennetut tulokset-taulukko (Popup-ikkuna))
+|       +-- LineChartDeflection.js (taipuman viivadagrammi-funktio)
+|       +-- LineChartMoment.js (taivutusmomentin viivadagrammi-funktio)
+|       +-- LineChartShear.js (leikkausvoiman viivadagrammi-funktio)
+|       +-- ButtonResultForm.tsx (napit form)
+| 
+|----+--+ containers (Tulokset-välilehti)
+|       |
+|       +-- NavBar.tsx (navigointipalkki)
+|       +-- ExampleCasePage.tsx (esimerkkilaskelma)
+|       +-- ComparisonResults.tsx (vartailulaskelmat)
+|
++----+ layouts (Formin ja notificationin pohjat)
+|    | 
+|    +-- Form.tsx
+|    +-- Notification.tsx
+|
++----+ controls (Tekstikenttä, nappi ja alasvetovalikon pohjat)
+|     | 
+|     +-- Input.tsx
+|     +-- InputForce.tsx
+|     +-- Button.tsx
+|     +-- Select.tsx   
+|	 
++----+ images	(kuvavarasto) 

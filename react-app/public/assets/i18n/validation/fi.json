@@ -1,0 +1,8 @@
+{
+  "beamName": "Palkin nimi vaaditaan.",
+  "span": "Luku pitää olla > 0.",
+  "a": "Luku pitää olla 0 <= B < span",
+  "b": "Luku pitää olla B > 0 ja A < B <= span",
+  "width": "Luku pitää olla > 0.",
+  "height": "Luku pitää olla > 0."
+}

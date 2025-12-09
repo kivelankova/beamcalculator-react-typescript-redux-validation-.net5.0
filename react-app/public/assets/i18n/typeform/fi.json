@@ -1,0 +1,8 @@
+{
+  "pointLoad": ". Pistekuorma (PL)",
+  "pointMoment": ". Pistemomentti (PM)",
+  "distributedLoad": ". Tasainen viivakuorma (UDL)",
+  "linearLoad": ". Lineaarinen viivakuorma (LDL)",
+  "add": "Lisää",
+  "empty": "Tyhjennä"
+}

@@ -1,0 +1,8 @@
+{
+  "pointLoad": ". PointLoad (PL)",
+  "pointMoment": ". PointMoment (PM)",
+  "distributedLoad": ". DistributedLoad (UDL)",
+  "linearLoad": ". LinearLoad (LDL)",
+  "add": "Add",
+  "empty": "Empty"
+}

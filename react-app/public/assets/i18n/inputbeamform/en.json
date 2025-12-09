@@ -1,0 +1,8 @@
+{
+  "title": "Enter the length of the beam [m] and the position of the supports [m]",
+  "beamName": "Beam Name",
+  "beamDefinition": "Beam Definition",
+  "span": "Span (span)",
+  "a": "Location of Left Support (A)",
+  "b": "Location of Right Support (B)"
+}

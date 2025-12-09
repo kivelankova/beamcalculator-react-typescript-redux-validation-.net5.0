@@ -1,0 +1,10 @@
+{
+  "en": {
+    "hello": "Hello!",
+    "welcome": "Welcome, {{name}}!"
+  },
+  "fi": {
+    "hello": "Bonjour!",
+    "welcome": "Bienvenue, {{name}} !"
+  }
+}

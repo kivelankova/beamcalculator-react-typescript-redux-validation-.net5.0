@@ -1,0 +1,8 @@
+{
+  "title": "Syötä palkin pituus [m] ja tukien [m] sijainti",
+  "beamName": "Palkin nimi",
+  "beamDefinition": "Palkkikuvaus",
+  "span": "Palkin pituus (span)",
+  "a": "Vasemman tuen sijainti (A)",
+  "b": "Oikean tuen sijainti (B)"
+}

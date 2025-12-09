@@ -1,0 +1,17 @@
+{
+  "titleButton": "Beam Results",
+  "titleDiagrams": "V/M/D Diagrams",
+  "titleResults": "Max/Min Results",
+  "results": "No Results",
+  "inputs": "No Inputs",
+  "buttonCalculateResult": "Calculate Result",
+  "buttonEmptyResult": "Empty Result",
+  "buttonSaveResult": "Save Result",
+  "buttonSavesResults": "Saves Results",
+  "resultList": "ResultList",
+  "close": "Close",
+  "shearForceDiagram": "Shear Force Diagram",
+  "bendingMomentDiagram": "Bending Moment Diagram",
+  "deflectionDiagram": "Deflection Diagram",
+  "xAxel": "X-axel"
+}

@@ -1,0 +1,8 @@
+{
+  "beamName": "Bar name is required.",
+  "span": "The number must be > 0.",
+  "a": "The number must be 0 <= A < span.",
+  "b": "The number must be B > 0 and  A < B <= span.",
+  "width": "The number must be > 0.",
+  "height": "The number must be > 0."
+}
