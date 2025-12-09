@@ -1,0 +1,1 @@
+# beamcalculator-react-typescript-redux-validation-.net5.0
